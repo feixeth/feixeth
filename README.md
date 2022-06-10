@@ -8,7 +8,4 @@
 
 📫 Twitter - @FelixDevCode // LinkedIn - Felix De Gaudenzi // Mail : degaudenzi.felix@gmail.com
 
-<!---
-feixeth/feixeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 PS: All things pushed here are made on my free time, i'm noob but EAGER TO LEARN :D
