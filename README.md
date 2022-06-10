@@ -6,7 +6,7 @@
 
 💞️ I’m looking for an alternation now, in web development / apps development , first step to being graduated.
 
-📫 Twitter - @FelixDevCode // LinkedIn - Felix D. // Mail : degaudenzi.felix@gmail.com
+📫 Twitter - @FelixDevCode // LinkedIn - Felix De Gaudenzi // Mail : degaudenzi.felix@gmail.com
 
 <!---
 feixeth/feixeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
