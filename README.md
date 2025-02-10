@@ -3,8 +3,8 @@
 Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
 - 🔭 Je travaille actuellement, en dehors de mon travail, sur **CS2Analytics et E-Coach**.
 - 🌱 **Fullstack - DevOps**
-- 💬 Pose-moi des questions sur **GitHub, Vue.js, Leaflet**.
-- 📫 Contacte-moi : [degaudenzi.felix@proton.me](mailto:degaudenzi.felix@proton.me).
+- 💬 Pose-moi des questions / Contacte-moi : **[degaudenzi.felix@proton.me](mailto:degaudenzi.felix@proton.me)**.
+- 📫 Reseaux : 💼 [LinkedIn](https://linkedin.com/in/ton-profil) | 🐦 [Twitter](https://twitter.com/ton-twitter)  | 🚀 [THM]([https://twitter.com/ton-twitter](https://tryhackme.com/p/FelixDeg)) 
 
 ---
 
