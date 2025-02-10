@@ -10,18 +10,16 @@ Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=feixeth&show_icons=true&theme=dark)
 
-
 ---
 
 ## 🔧 Compétences  
-- **Langages** : JavaScript, PHP, Python  
-- **Frameworks** : Vue.js, Laravel, TailwindCSS  
-- **Base de données** : MySQL, PostgreSQL  
-- **Autres** : Git, Docker, CI/CD  
+- **Langages** : PHP - JS 
+- **Frameworks** : Laravel, Vue.js, TailwindCSS/Bootstrap, Breeze, PHPUnit ...  
+- **Base de données** : MySQL, PostgreSQL
+- **CMS** : Wordpress, Drupal, Prestashop, SPIP, Joomla, Thelia, CraftCMS ...
+- **Autres** : Git, Docker, DDEV, Jenkins, Zabbix, Apache/Nginx, HTML/CSS ...
 
 ## 📂 Projets récents  
-🔹 [Nom du Projet 1](https://github.com/ton-pseudo/projet-1) - Description rapide  
-🔹 [Nom du Projet 2](https://github.com/ton-pseudo/projet-2) - Description rapide  
+🔹 [CS2Analytics](https://github.com/ton-pseudo/projet-1) - Analyse de fichier .dem 
+🔹 [ECoach](https://github.com/ton-pseudo/projet-2) - Plateforme de mise en relation
 
-## 📬 Me contacter  
-💼 [LinkedIn](https://linkedin.com/in/ton-profil) | 🐦 [Twitter](https://twitter.com/ton-twitter)  
