@@ -10,7 +10,7 @@ Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
  
 
 - 💬 Pose-moi des questions / Contacte-moi : **[degaudenzi.felix@proton.me](mailto:degaudenzi.felix@proton.me)**.
-- 📫 Reseaux : 💼  [LinkedIn](www.linkedin.com/in/felix-de-gaudenzi)  | 🐦 [Twitter](https://twitter.com/ton-twitter)  | 🚀 [THM]([https://twitter.com/ton-twitter](https://tryhackme.com/p/FelixDeg)) 
+- 📫 Reseaux : 💼  [LinkedIn](www.linkedin.com/in/felix-de-gaudenzi)  | 🐦 [Twitter](https://twitter.com/ton-twitter)  | 🚀 [THM](https://tryhackme.com/p/FelixDeg) 
 
 ---
 
