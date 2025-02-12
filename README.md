@@ -26,7 +26,7 @@ Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
 - **Autres** : Git, Docker, DDEV, Jenkins, Zabbix, Apache/Nginx, HTML/CSS ...
 
 ## 📂 Projets récents  
-🔹 [CS2Analytics](https://github.com/ton-pseudo/projet-1) - Analyse de fichier .dem 
-    ---
-🔹 [ECoach](https://github.com/ton-pseudo/projet-2) - Plateforme de mise en relation
+- ## 🛠️ 🔹 [CS2Analytics](https://github.com/ton-pseudo/projet-1) - Analyse de fichier .dem
+
+- ## 🛠️ 🔹  [ECoach](https://github.com/ton-pseudo/projet-2) - Plateforme de mise en relation
 
