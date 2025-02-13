@@ -1,11 +1,41 @@
-# 👋 Hey there, i'm Félix,
+# 👋 Hey there,
 
 Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
 - 🔭 Je travaille actuellement pendant mon temps libre, sur **CS2Analytics et E-Coach**.
 - 🌱 **Fullstack - DevOps**
-- ## 🛠️ Stack technique  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 
+### :computer: My stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/stacks/symfony-mark-white.svg">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="32px" height="32px" style="padding-right: 60px;"/>
+</picture>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32px" height="32px"/>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="32px" height="32px"/>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32px" height="32px"/>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="32px" height="32px"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/stacks/github-mark-white.svg">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32px" height="32px" style="padding-right: 60px;"/>
+</picture>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="32px" height="32px"/>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32px" height="32px"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/stacks/ansible-mark-white.svg">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="32px" height="32px"/>
+</picture>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32px" height="32px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="32px" height="32px"/>
 
  
 
