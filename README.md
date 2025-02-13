@@ -26,7 +26,7 @@ Few informations about me :
 
 - 💬 Feel free to AMA: **[degaudenzi.felix@proton.me](mailto:degaudenzi.felix@proton.me)**.
 
-- 📫 Networks : 💼  [LinkedIn](www.linkedin.com/in/felix-de-gaudenzi)  | 🐦 [Twitter](https://twitter.com/ton-twitter)  | 🚀 [THM](https://tryhackme.com/p/FelixDeg)
+- 📫 Playgrounds : 🚀 [CodinGames](https://twitter.com/ton-twitter)  | 🚀 [THM](https://tryhackme.com/p/FelixDeg)
 
 
 ## 🌐 Connect with me
