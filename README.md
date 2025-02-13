@@ -25,7 +25,16 @@ Few informations about me :
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="32px" height="32px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="32px" height="32px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="32px" height="32px"/>
 
 - 💬 Feel free to AMA: **[degaudenzi.felix@proton.me](mailto:degaudenzi.felix@proton.me)**.
-- 📫 Networks : 💼  [LinkedIn](www.linkedin.com/in/felix-de-gaudenzi)  | 🐦 [Twitter](https://twitter.com/ton-twitter)  | 🚀 [THM](https://tryhackme.com/p/FelixDeg) 
+
+- 📫 Networks : 💼  [LinkedIn](www.linkedin.com/in/felix-de-gaudenzi)  | 🐦 [Twitter](https://twitter.com/ton-twitter)  | 🚀 [THM](https://tryhackme.com/p/FelixDeg)
+
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/Baptiste%20Fotia-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felix-de-gaudenzi/)
+[![Twitter](https://img.shields.io/badge/%40Z4kira-%231DA1F2?style=for-the-badge&logo=x)](https://twitter.com/feixeth)
+[![Mail](https://img.shields.io/badge/any-Contact%20Me-grey?style=for-the-badge&logo=mail.ru&label=%20)](mailto:degaudenzi.felix@proton.me)
+
 
 ---
 
