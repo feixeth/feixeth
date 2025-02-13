@@ -25,6 +25,13 @@ Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="32px" height="32px"/>
 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Zabbix_logo.svg" width="32px" height="32px"/>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="32px" height="32px"/>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="32px" height="32px"/>
+
+
 - 💬 Feel free to AMA: **[degaudenzi.felix@proton.me](mailto:degaudenzi.felix@proton.me)**.
 - 📫 Networks : 💼  [LinkedIn](www.linkedin.com/in/felix-de-gaudenzi)  | 🐦 [Twitter](https://twitter.com/ton-twitter)  | 🚀 [THM](https://tryhackme.com/p/FelixDeg) 
 
