@@ -33,12 +33,11 @@ Few informations about me :
 
 ---
 
-## 🔧 Skills  
-- **Langages** : PHP - JS 
-- **Frameworks** : Laravel, Vue.js, TailwindCSS/Bootstrap, Breeze, PHPUnit ...  
-- **Base de données** : MySQL, PostgreSQL
+## 🔧 Few others skills  
+- **Frameworks** : TailwindCSS/Bootstrap, Breeze, PHPUnit ...  
+- **DB** : MySQL, PostgreSQL
 - **CMS** : Wordpress, Drupal, Prestashop, SPIP, Joomla, Thelia, CraftCMS ...
-- **Autres** : Git, Docker, DDEV, Jenkins, Zabbix, Apache/Nginx, HTML/CSS ...
+- **Others** : Git, Docker, DDEV, Jenkins, Zabbix, Apache/Nginx, HTML/CSS ...
 
 ## 📂 Actual side-project  
 - ## 🛠️ 🔹 [CS2Analytics](https://github.com/ton-pseudo/projet-1) - Analyze .dem file and return metrics
