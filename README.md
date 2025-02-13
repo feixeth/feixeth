@@ -1,8 +1,8 @@
-# 👋 Hey there,
+# 👋 Hey there, I'm Félix !
 
-Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
-- 🔭 Je travaille actuellement pendant mon temps libre, sur **CS2Analytics et E-Coach**.
-- 🌱 **Fullstack - DevOps**
+Few informations about me :
+- 🔭 Beside my main job, i'm actually working on side-projects : **CS2Analytics et E-Coach**.
+- 🌱 **Fullstack Developper - DevOps Oriented**
 
 ### :computer: My stack
 
