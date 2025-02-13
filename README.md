@@ -6,15 +6,14 @@ Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
 
 ### :computer: My stack
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32px" height="32px"/>
-
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="32px" height="32px"/>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32px" height="32px"/>
 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32px" height="32px"/>
+
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="32px" height="32px"/>
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32px" height="32px" style="filter: invert(1);"/>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="32px" height="32px"/>
 
@@ -25,8 +24,6 @@ Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32px" height="32px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="32px" height="32px"/>
-
- 
 
 - 💬 Feel free to AMA: **[degaudenzi.felix@proton.me](mailto:degaudenzi.felix@proton.me)**.
 - 📫 Networks : 💼  [LinkedIn](www.linkedin.com/in/felix-de-gaudenzi)  | 🐦 [Twitter](https://twitter.com/ton-twitter)  | 🚀 [THM](https://tryhackme.com/p/FelixDeg) 
