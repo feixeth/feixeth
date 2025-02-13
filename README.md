@@ -20,11 +20,6 @@ Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32px" height="32px"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/stacks/ansible-mark-white.svg">
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="32px" height="32px"/>
-</picture>
-
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32px" height="32px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="32px" height="32px"/>
