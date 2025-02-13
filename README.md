@@ -14,7 +14,7 @@ Bienvenue sur mon profil GitHub ! Voici quelques infos sur moi :
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="32px" height="32px"/>
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32px" height="32px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-white.svg" width="32px" height="32px"/>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="32px" height="32px"/>
 
