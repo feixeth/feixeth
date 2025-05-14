@@ -49,7 +49,7 @@ Few informations about me :
 - **Others** : Git, Docker, DDEV, Jenkins, Zabbix, Apache/Nginx, HTML/CSS ...
 
 ## 📂 Actual side-project  
-- ## 🛠️ 🔹 [CSPlaybook Back]([https://github.com/ton-pseudo/projet-1](https://github.com/feixeth/cs-pb-backend) - Headless laravel backend
+- ## 🛠️ 🔹 [CSPlaybook Back](https://github.com/feixeth/cs-pb-backend) - Headless laravel backend
 
 - ## 🛠️ 🔹  [CSPlaybook Front](https://github.com/feixeth/cs-pb-front) - Headless VueJS frontend
 
