@@ -2,7 +2,7 @@
 
 Few informations about me :
 - 🔭 Beside my main job, i'm actually working on side-projects : **CS2Analytics et E-Coach**.
-- 🌱 **Fullstack Developper - DevOps Oriented**
+- 🌱 **Fullstack Developper - DevSecOps Oriented**
 
 ### :computer: My stack
 
