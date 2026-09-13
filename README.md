@@ -38,7 +38,7 @@ Few informations about me :
 
 ---
 
-### 🟣 Contributions — GitHub + GitLab
+### 🟣 [Contributions — GitHub + GitLab](https://github.com/feixeth/contribution-graph)
 
 ![Contribution graph](https://contrib.dgzinfo.fr/graph.svg)
 
