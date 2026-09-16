@@ -51,7 +51,7 @@ Few informations about me :
 - **Others** : Git, Docker, DDEV, Jenkins, Zabbix, Apache/Nginx, HTML/CSS ...
 
 ## 📂 Actual side-project  
-- ## 🛠️ 🔹 [CSPlaybook Back](https://github.com/feixeth/cs-pb-backend) - Headless laravel backend
+- ## 🛠️ 🔹 [Herald(ZEDD)](https://github.com/feixeth/zedd-herald) - Browser Extension
 
-- ## 🛠️ 🔹  [CSPlaybook Front](https://github.com/feixeth/cs-pb-front) - Headless VueJS frontend
+- ## 🛠️ 🔹  [PulSub](https://github.com/feixeth/pulsub) - Twitch analytics
 
