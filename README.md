@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Félix !
 
 Few informations about me :
-- 🔭 Beside my main job, i'm actually working on side-projects : **CS-PB & E-Coach**.
+- 🔭 Beside my main job, i'm actually working on side-projects : **Herald & PulSub**.
 - 🌱 **Fullstack Developper - DevSecOps Oriented**
 
 ### :computer: My stack
